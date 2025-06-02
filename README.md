@@ -54,7 +54,7 @@ uav_deconfliction/
 
 1.  **Clone the Repository (if applicable):**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/virensompura/uav_deconfliction.git
     cd uav_deconfliction
     ```
 
